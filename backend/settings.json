@@ -1,0 +1,7 @@
+{
+  "platformName": "Somlance",
+  "supportEmail": "support@somlance.com",
+  "defaultCurrency": "USD",
+  "commissionRate": 15,
+  "maintenanceMode": false
+}
